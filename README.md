@@ -28,7 +28,7 @@ Se llevó a cabo un flujo completo de ETL:
 
 El análisis exploratorio incluyó:
 
-- Distribución global de churn: **5163** clientes permanecieron vs **1869** que se fueron.  
+- Distribución global: **5163** clientes permanecieron vs **1869** que se fueron.  
 - Comportamiento según **género**, **tipo de contrato** y **método de pago**.  
 - Patrones en variables numéricas: gasto mensual, meses de contrato y cuentas diarias.  
 - Visualizaciones con barras anotadas y boxplots con medias para resaltar insights.
