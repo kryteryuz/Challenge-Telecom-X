@@ -41,8 +41,7 @@ El análisis exploratorio incluyó:
 - **Pandas** – Limpieza y manipulación de datos  
 - **NumPy** – Cálculos numéricos y creación de variables  
 - **requests** – Extracción de datos desde API  
-- **Matplotlib & Seaborn** – Visualizaciones estadísticas  
-- **Jupyter Notebook** – Documentación y ejecución de análisis  
+- **Matplotlib & Seaborn** – Visualizaciones estadísticas   
 
 ---
 
