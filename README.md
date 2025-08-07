@@ -54,7 +54,7 @@ Este proyecto es gestionado de forma individual; contribuciones futuras son bien
 
 ## Personas Desarrolladoras del Proyecto
 
-- **Bryan Vera** – Analista de datos y desarrollador de visualizaciones.
+- **Bryan Vera**
 
 ---
 
